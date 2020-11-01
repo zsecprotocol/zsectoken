@@ -1,1 +1,1 @@
-# zsectoken
+# zsec protocol smart contract source
